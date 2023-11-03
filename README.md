@@ -2,7 +2,7 @@
 ## _JavaScript Game
 
 ## Visit the site:  https://pascual143.github.io/DadosGame/
-- ✨ Website✨
+ ✨ Website✨
  
 
 ## Features
